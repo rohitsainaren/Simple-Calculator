@@ -4,7 +4,8 @@ A simple calculatoe using HTML,CSS and JavaScript
 
 Design :
 
-![design](https://user-images.githubusercontent.com/110220505/236860293-7158f017-ad17-445b-a189-2781ae3d284e.png)
+![design](![image](https://github.com/rohitsainaren/Simple-Calculator/assets/110220505/2d9cded7-a839-4888-848e-a9cf3721199d)
+)
 
 Working :
 
